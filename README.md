@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Портфолио - Шорабай Нұрым
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# portfolio-nurym-shorabay.github.io
+My first project on GitHub
+>>>>>>> cdb8c2e747d68f2e9ce0a91ec19b6740979f0244
